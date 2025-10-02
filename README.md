@@ -10,7 +10,7 @@
 - Interests: Data Analytics, Web Development
 
 - ### 📫 Connect With Me
-- [LinkedIn](www.linkedin.com/in/anamika-anamika-a49b50241)  
+- [LinkedIn](https://www.linkedin.com/in/anamika-anamika-a49b50241/)  
 - Email: 2906anamika@gmail.com
 
 - ⚡ *This profile will be updated with my projects as I complete them.*
