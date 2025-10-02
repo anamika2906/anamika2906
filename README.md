@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anamika 👋  
 
-<!--
-**anamika2906/anamika2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Python, C++ and Data Structures**.  
+💻 Interested in **Web Development, Data Analytics, and Problem Solving**.  
+🎯 My goal is to grow as a developer and prepare for FAANG-level opportunities. 
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack (Learning in Progress)
+- Languages: Python, C++  
+- Tools: Git, GitHub, VS Code  
+- Interests: Data Analytics, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 📫 Connect With Me
+- [LinkedIn](www.linkedin.com/in/anamika-anamika-a49b50241)  
+- Email: 2906anamika@gmail.com
+
+- ⚡ *This profile will be updated with my projects as I complete them.*
